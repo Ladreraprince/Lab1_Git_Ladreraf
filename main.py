@@ -1,5 +1,5 @@
-print(Lab 1: Version Control")
+print("Lab 1: Version Control")
 print("Author: Prince Marwel S. Ladrera")
 print ("Student ID: TUPM-26-1132")
 print("Class Section: [BSECE-1C]")
-print("main branch")
+print("Main branch")
